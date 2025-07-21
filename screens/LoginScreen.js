@@ -43,7 +43,7 @@ function LoginScreen({navigation}) {
                     longitude: longitude - 0.004, 
                 };
 
-                const distance = getDistance({latitude, longitude}, OUTSIDE_300M);
+                const distance = getDistance({latitude, longitude}, WITH_IN_300M);
 
                 if(distance <= 300){
                     navigation.replace('Shop');

@@ -47,8 +47,8 @@ npm install
 npx expo start
 ```
 
-🔹 Press `a` for Android emulator
-🔹 Press `w` to launch in a web browser
+🔹 Press `a` for Android emulator or in Real Device
+🔹 Press `i` for IOS emulator or in Real Device
 
 ---
 

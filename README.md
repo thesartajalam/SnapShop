@@ -98,7 +98,20 @@ npx expo start
 
 ## 🛡 License
 
-This project is intended for learning and showcasing geolocation-based app functionality using **React Native + Expo**. Feel free to fork and extend it for real-world usage or portfolio purposes!
+This project is intended for learning and showcasing geolocation-based app functionality using **React Native + Expo**.
+
+---
+
+
+## Note 
+
+You can also use the GEOAPIFY PLACES API data for navigation to ShopScreen based on real world data means,
+if a shop is really in 300 meters of radius of the user's actual location then the user will navigate to
+the "ShopScreen" otherwise to the "HomeScreen".
+
+So, Look the LoginScreen.js file properly in the loginHandler() function 
+there is commented code which is using actual real world data fetched from GEOAPIFY PLACES API using axios.
+So uncomment that part and comment the above code which is using hardcoded WITH_IN_300 and OUTSIDE_300
 
 ---
 

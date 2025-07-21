@@ -2,7 +2,7 @@ Here is your complete `README.md` content in one code block. You can copy and pa
 
 ---
 
-````markdown
+
 # 🛍️ SnapShop - Location-Based Shop Access App
 
 SnapShop is a **React Native (Expo)** app that utilizes **mock login** and **real-time location detection** to allow users to access specific shops within a **300-meter proximity**. Whether you're testing geofencing, location-triggered access, or simply building a smart local discovery app — SnapShop offers a clean and modern foundation to work from.
@@ -37,7 +37,7 @@ SnapShop is a **React Native (Expo)** app that utilizes **mock login** and **rea
 ```sh
 git clone https://github.com/thesartajalam/SnapShop.git
 cd SnapShop
-````
+
 
 ### 2️⃣ Install Dependencies
 

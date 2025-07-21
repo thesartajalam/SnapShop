@@ -54,10 +54,20 @@ npx expo start
 
 ## 📸 Screenshots (Coming Soon)
 
-📍 **Login Screen**
-📍 **Shop Screen (When nearby a shop)**
-📍 **Home Screen (When outside the shop radius)**
-📍 **Loading Overlay During Navigation Check**
+**Login Screen**
+![LoginScreen](https://github.com/user-attachments/assets/4991d3a1-51e1-4da8-a7ef-85e05c89c824)
+
+**Loading Overlay During Navigation Check**
+![LoadingOverlay](https://github.com/user-attachments/assets/1de7f338-f002-4322-9cfe-e2b0e7ad1047)
+
+**Request for Location Permission**
+![LocationPermission](https://github.com/user-attachments/assets/1f3dde64-8652-43d8-a107-ed57170174dd)
+
+**Shop Screen (When nearby a shop)**
+![ShopScreen](https://github.com/user-attachments/assets/cafcc980-bb4a-4e23-abe8-59163e3137f3)
+
+**Home Screen (When outside the shop radius)**
+![HomeScreen](https://github.com/user-attachments/assets/278f9fed-d1af-4d78-916f-966784e5d426)
 
 ---
 
@@ -105,6 +115,9 @@ This project is intended for learning and showcasing geolocation-based app funct
 
 ## Note 
 
+username -> admin
+password -> 1234
+
 You can also use the GEOAPIFY PLACES API data for navigation to ShopScreen based on real world data means,
 if a shop is really in 300 meters of radius of the user's actual location then the user will navigate to
 the "ShopScreen" otherwise to the "HomeScreen".
@@ -128,16 +141,5 @@ SnapShop is built to simulate a **real-world location-aware app**. It's simple, 
 
 ---
 
-````
 
----
 
-✅ Once you've pasted this in your `README.md`, you can commit and push it with:
-
-```bash
-git add README.md
-git commit -m "Add complete README"
-git push origin main
-````
-
-Let me know if you want a version with badges or contribution guidelines added!

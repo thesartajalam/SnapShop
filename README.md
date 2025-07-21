@@ -1,7 +1,3 @@
-Here is your complete `README.md` content in one code block. You can copy and paste this directly into your project:
-
----
-
 
 # 🛍️ SnapShop - Location-Based Shop Access App
 
@@ -37,7 +33,7 @@ SnapShop is a **React Native (Expo)** app that utilizes **mock login** and **rea
 ```sh
 git clone https://github.com/thesartajalam/SnapShop.git
 cd SnapShop
-
+```
 
 ### 2️⃣ Install Dependencies
 
